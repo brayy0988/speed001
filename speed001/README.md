@@ -9,12 +9,12 @@
 Ensure you have [Node.js](https://nodejs.org) version 16.x + installed. Then run the following:
 
 ```sh
-npm i -g speedtest-cli.js
+npm i -g speed001
 ```
 Or
 
 ```sh
-npm install --global speedtest-cli.js
+npm install --global speed001
 ```
 
 ## Usage
